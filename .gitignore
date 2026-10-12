@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+output/
+skill_asr_qwen_pending/
+*.log
